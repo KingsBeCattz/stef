@@ -13,7 +13,7 @@ This repository contains the official Rust implementation.
 ## Roadmap
 
 **Phase 1 — Foundation**
-- [x] `stef-core` — complete rewrite, stable
+- [x] `stef-core` — initial release, stable
 - [ ] `stef-fuzz` — fuzz testing layer over `stef-core`
 
 **Phase 2 — High-level API**
